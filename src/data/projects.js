@@ -1,90 +1,125 @@
-import theScreeningRoom from '../assets/theScreeningRoom.jpg';
-import cowboysVsAliens from '../assets/cowboysVsAliens.jpg';
-import artworked from '../assets/artworked.jpg';
-import theOverlook from '../assets/theOverlook.jpg';
-import picasso from '../assets/picasso.jpg';
-import communityConnect from '../assets/communityConnect.jpg';
-
 const projects = [
 	{
 		id: 1,
-		title: 'Picasso - Smart Color Palettes (beta)',
+		title: 'The perfect Time-Trial',
 		description:
-			'A full-stack web app color palette picker with back-end and front-end built from the ground up in collaboration with another developer. Heavy RESTful API development design. 90% testing coverage on the back-end. Create an account or login to create and save your smartly fetched color palettes that actually look good!',
-		repoLink: 'https://github.com/edwindelbosque/picasso-fe',
-		deployLink: 'http://colorsbypicasso.herokuapp.com',
-		image: picasso,
-		role: 'Full-Stack Engineer / UI Designer',
-		weekDuration: 'Ongoing 3',
-		technologies1: ['React', 'Hooks', 'Knex', 'Travis CI'],
-		technologies2: ['Node.js', 'Express', 'PostgreSQL', 'Jest']
+			'We gaan aan de slag met jouw tijdrit. Thema’s die we uitgebreid aandacht gaan geven zijn o.a.',
+		people: 'With Jenning Huizinga & Seter Pchep',
+		deployLink:
+			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
+		date: 'Vrijdag 15, Mei 2020',
+		location: 'Nedereindse Berg, Nieuwegein',
+		points: [
+			'Aerodynamica; jouw optimale houding en trends',
+			'Pacing; hoe deel ik mijn tijdrit in en gebruik ik m’n vermogen',
+			'Trainingsvormen',
+			'Wedstrijdvoorbereiding',
+			'wedstrijdbeleving'
+		]
 	},
 	{
 		id: 2,
-		title: 'The Screening Room - Movie Hub',
-		description:
-			'A simplified movie hub. Search for movies or discover new ones. Watch trailers, ratings, summaries, and more. If you like a movie create an account or login to add it to your watchlist and come back to them wherever you are, on any device.',
-		repoLink: 'https://github.com/edwindelbosque/the-screening-room',
-		deployLink: 'https://the-screening-room.herokuapp.com',
-		image: theScreeningRoom,
-		role: 'Full-Stack Engineer / UI Designer',
-		weekDuration: 3,
-		technologies1: ['React', 'Redux', 'Router', 'Jest & Enzyme'],
-		technologies2: ['Node.js', 'Express', 'PostgreSQL', 'TheMovieDB API']
+		title: 'All things Madison',
+		people: 'With Nick Stöpler',
+		deployLink: '',
+		date: 'October 2020',
+		location: 'Velodrome, Amsterdam',
+		points: ['Aflossingen', 'Energie besparen', 'Positioneren', 'Overzicht'],
+		dialog:
+			'Hoe zorg je voor een goede samenwerking met je madison partner ook naast de fiets?'
 	},
 	{
 		id: 3,
-		title: 'Community Connect Colorado',
-		description:
-			'A React Native mobile application where you can find all of the resources that are available to you in the state of Colorado.',
-		repoLink:
-			'https://github.com/Turing-MOD4-Cross-Pollination/front-end-help-yourself',
-		deployLink:
-			'https://github.com/Turing-MOD4-Cross-Pollination/front-end-help-yourself',
-		image: communityConnect,
-		role: 'Front-End Engineer / UI Designer',
-		weekDuration: 3,
-		technologies1: ['React', 'Native', 'Jest', 'Enzyme'],
-		technologies2: ['Expo', 'Sketch', 'Redux']
+		title: 'The perfect start',
+		dialog:
+			'How he coped with not being selected to defend his world title team sprint',
+		people: 'Nils van‘t Hoenderdaal;',
+		deployLink: '',
+		date: 'October 2020',
+		location: 'Velodrome, Amsterdam',
+		points: [
+			'Trainingsvormen; Hoe train je voor een teamsprint, (ploegen)achtervolging etc.',
+			'Trainingsvormen krachttraining',
+			'Wedstrijdbeleving & voorbereiding',
+			'Techniek perfect uit de startmachine'
+		]
 	},
 	{
 		id: 4,
-		title: 'Artworked - iTunes Artwork Finder',
-		description:
-			'I built this app to solve my own personal problem finding good quality artworks for my music library. Artworked allows you to search and download all iTunes artworks in their original quality. As a last minute extra, it also plays previews.',
-		repoLink: 'https://github.com/edwindelbosque/artworked',
-		deployLink: 'https://edwindelbosque.github.io/artworked/',
-		image: artworked,
-		role: 'Front-End Engineer / UI Designer',
-		weekDuration: 1,
-		technologies1: ['React', 'Redux', 'Router'],
-		technologies2: ['Sketch', 'iTunes API', 'Jest & Enzyme']
+		title: 'Training & Q&A with Marianne Vos',
+		description: '',
+		people: 'With Marianne Vos',
+		deployLink: '',
+		date: 'October 2020',
+		location: 'Naarden, NL',
+		points: ["Marianne's favoriete intervals trainingsvorm"]
 	},
 	{
 		id: 5,
-		title: 'The Overlook - Hotel Management',
-		description:
-			'A web app built to help hotel staff manage customers, bookings, bills, and room services. It was this project that I developed a passion for heavy data manipulation.',
-		repoLink: 'https://github.com/edwindelbosque/TheOverlook',
-		deployLink: 'https://edwindelbosque.github.io/TheOverlook/',
-		image: theOverlook,
-		role: 'Front-End Engineer',
-		weekDuration: 1,
-		technologies1: ['jQuery', 'SCSS', 'HTML5', 'Webpack'],
-		technologies2: ['Mocha', 'Chai', 'Spies', 'Sketch']
+		title: 'How to ride the best possible Keirin',
+		description: '',
+		people: 'With Matthijs Büchli',
+		deployLink: '',
+		date: 'October 2020',
+		location: 'Alkmaar, Sportpaleis',
+		points: ['Positioneren', 'Timing']
 	},
 	{
 		id: 6,
-		title: 'Cowboys VS Aliens - Web Game',
-		description:
-			'A game based on the TV game show Family Feud, but with an Aliens vs Cowboys twist. This was done in collaboration with another three developers. We also built it implementing OOP structured classes in jQuery.',
-		repoLink: 'https://github.com/edwindelbosque/Cowboys-vs-Aliens',
-		deployLink: 'https://edwindelbosque.github.io/Cowboys-vs-Aliens/',
-		image: cowboysVsAliens,
-		role: 'Front-End Engineer / UI Designer',
-		weekDuration: 2,
-		technologies1: ['jQuery', 'SCSS', 'Mocha', 'Chai'],
-		technologies2: ['Spies', 'API', 'Skecth']
+		title: 'Me vs You: The perfect sprint tournament',
+		description: '',
+		dialog:
+			'How did he get over defeat at the 2008 Olympics and how to handle pressure',
+		people: 'With Theo Bos',
+		deployLink: '',
+		date: 'November 2020',
+		location: 'Alkmaar, Sportpaleis',
+		points: ['Herstel', 'Opladen', 'Qualificatieronde']
+	},
+	{
+		id: 7,
+		title: 'The perfect elimination race',
+		description: '',
+		dialog:
+			'How she became better with the years and how to manage people writing you off',
+		people: 'With Kirsten Wild',
+		deployLink: '',
+		date: 'November 2020',
+		location: 'Apeldoorn, Omnisport',
+		points: ['Positionering', 'Trainingsvormen interval', 'Wedstrijdbeleving']
+	},
+	{
+		id: 8,
+		title: 'Q&A: Sleeping well under all conditions',
+		people: 'With Nick Stöpler',
+		description: '',
+		dialog: '',
+		deployLink: '',
+		date: 'November 2020',
+		location: 'Naarden',
+		points: [
+			'Slaaproutines',
+			'Slaapproblemen',
+			'Slapen tijdens wedstrijddagen',
+			'Slaapgenwoontes'
+		]
+	},
+	{
+		id: 9,
+		title: 'Q&A: How do I find a team?',
+		description: '',
+		dialog:
+			'How she became better with the years and how to manage people writing you off',
+		people: 'With Bart van Haaren, manager SEG',
+		deployLink: '',
+		date: 'December 2020',
+		location: 'Naarden',
+		points: [
+			'What team fits me?',
+			'How do I approach a team?',
+			'What does a team look for in me?',
+			'How do I develop best?'
+		]
 	}
 ];
 
