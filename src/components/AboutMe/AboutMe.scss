@@ -11,6 +11,12 @@
 		width: 65%;
 	}
 
+	.sub-header {
+		color: white;
+		font-size: 22px;
+		font-weight: bold;
+	}
+
 	h2 {
 		color: rgba(255, 255, 255, 0.932);
 		margin-bottom: 5px;
@@ -119,7 +125,7 @@
 
 .about-description {
 	padding-top: 50px;
-	width: 50%;
+	width: 100%;
 }
 
 @media only screen and (max-width: 900px) {

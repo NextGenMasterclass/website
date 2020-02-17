@@ -49,7 +49,6 @@ const ContactForm = props => {
 					value={email}
 				/>
 				<label className='message'>Message:</label>
-				<h4>Hello Edwin,</h4>
 				<textarea
 					type='text'
 					name='message'

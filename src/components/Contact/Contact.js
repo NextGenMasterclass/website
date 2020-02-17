@@ -11,8 +11,11 @@ const Contact = () => {
 					<span>04. Contact</span>Get In Touch
 				</h2>
 				<p>
-					Although I'm currently not looking for job opportunities, my inbox is
-					always open!
+					We would love for you to get in touch if you want to collaborate, have
+					ideas or want to contribute to the network.
+				</p>
+				<p style={{ marginTop: '70px', color: 'darkgray', fontSize: '90%' }}>
+					Please be mindful about our time, as our organization is non-profit.
 				</p>
 				<ContactForm />
 			</main>

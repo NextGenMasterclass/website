@@ -3,7 +3,7 @@ import './Home.scss';
 import Fade from 'react-reveal/Fade';
 
 const Home = () => {
-	const name = 'Edwin Del Bosque';
+	const name = 'The Next Generation';
 	const resumeUrl =
 		'https://drive.google.com/file/d/12sU1DRchtoAVYqw034NR1Hk29DpGBVtn/view';
 
@@ -11,28 +11,17 @@ const Home = () => {
 		<>
 			<Fade cascade delay={600}>
 				<section className='title-section'>
-					<p className='introduction'>Hello! ¡Hola! My name is</p>
+					<p className='introduction'></p>
 					<h1>{name}.</h1>
-					<h1 className='sub-header-title'>Building things for the web.</h1>
+					<h1 className='sub-header-title'>Masterclasses on the bike.</h1>
 					<p className='description-title'>
-						I'm a{' '}
-						<span>
-							<b>Front-End Engineer</b>
-						</span>{' '}
-						and UI design enthusiast based in Denver, CO. My areas of expertise
-						lie in JavaScript ES6+, UX/UI Design, and Test-Driven Development.
+						We inspire talent and arm them with expert knowledge and skill by
+						direct transfer of knowhow from one generation to another.
 					</p>
 					<div>
 						<Fade bottom cascade delay={800}>
 							<a href='mailto:edwinbosq@gmail.com' className='button-link'>
-								<button className='contact-button'>Get In Touch</button>
-							</a>
-							<a
-								href={resumeUrl}
-								target='_blank'
-								rel='noopener noreferrer'
-								className='button-link'>
-								<button className='contact-button'>Resume</button>
+								<button className='contact-button'>Sign Up</button>
 							</a>
 						</Fade>
 					</div>

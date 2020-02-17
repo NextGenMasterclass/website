@@ -4,7 +4,7 @@ import './Footer.scss';
 const Footer = () => {
 	return (
 		<footer className='Footer' name='Footer'>
-			<p>Designed & Built by Edwin Del Bosque</p>
+			<p>The Next Generation © 2020</p>
 		</footer>
 	);
 };
