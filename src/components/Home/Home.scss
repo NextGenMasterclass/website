@@ -81,11 +81,12 @@ p {
 	width: 1000px;
 	background: linear-gradient(
 		to left bottom,
-		#e100ff,
-		#be033b,
+		#ffffff,
+		#40586d,
 		#021e4400,
 		#021e4400
 	);
+	box-shadow: -40px 10px 40px -30px rgb(0, 255, 170);
 	z-index: -1;
 	position: fixed;
 	transform: rotate(-15deg);

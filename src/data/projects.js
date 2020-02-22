@@ -4,7 +4,7 @@ const projects = [
 		title: 'The perfect Time-Trial',
 		description:
 			'We gaan aan de slag met jouw tijdrit. Thema’s die we uitgebreid aandacht gaan geven zijn o.a.',
-		people: 'With Jenning Huizinga & Seter Pchep',
+		people: 'With Jenning Huizinga & Seter Pchep(?)',
 		deployLink:
 			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
 		date: 'Vrijdag 15, Mei 2020',
