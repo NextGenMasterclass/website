@@ -1,6 +1,5 @@
 import React from 'react';
 import './AboutMe.scss';
-import headshot from '../../assets/headshot.jpg';
 import Fade from 'react-reveal/Fade';
 
 const AboutMe = () => {

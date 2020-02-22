@@ -139,10 +139,12 @@ nav {
 .logo {
 	svg {
 		margin-top: 15px;
-		margin-left: 3px;
+		margin-left: 45px;
 		height: 50px;
 		width: 69px;
 		position: absolute;
+		color: white;
+		fill: rgb(211, 211, 211);
 	}
 }
 
@@ -153,7 +155,7 @@ nav {
 	top: 12px;
 	cursor: default;
 	font-size: 10px;
-	left: 62px;
+	left: 105px;
 	width: 80px;
 	letter-spacing: 6px;
 	line-height: 16px;
