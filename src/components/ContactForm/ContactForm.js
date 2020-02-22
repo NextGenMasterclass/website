@@ -32,7 +32,7 @@ const ContactForm = props => {
 			<form
 				className='ContactForm'
 				onSubmit={submitForm}
-				action={'https://formspree.io/mpzdzbnw'}
+				action={'https://formspree.io/xeqkoozk'}
 				method={'POST'}>
 				<label>Name:</label>
 				<input

@@ -7,8 +7,8 @@ const Partnerships = () => {
 		<img alt={partnership.name} src={partnership.image} />
 	));
 	return (
-		<main className='Projects'>
-			<h2>Partnerships</h2>
+		<main className='Partnerships'>
+			<h2>Partnerships(?)</h2>
 			<section className='partnerships-container'>{partners}</section>
 		</main>
 	);
