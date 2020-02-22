@@ -138,10 +138,11 @@ nav {
 
 .logo {
 	svg {
-		margin-top: 12px;
+		margin-top: 15px;
 		margin-left: 3px;
 		height: 50px;
 		width: 69px;
+		position: absolute;
 	}
 }
 
@@ -149,7 +150,7 @@ nav {
 	color: rgb(255, 255, 255);
 	font-family: 'Overpass Mono';
 	position: absolute;
-	top: 8px;
+	top: 12px;
 	cursor: default;
 	font-size: 10px;
 	left: 62px;
@@ -163,6 +164,16 @@ nav {
 	.navigation-ul {
 		margin-right: 10px;
 		padding-right: 30px;
+	}
+
+	.logo {
+		svg {
+			margin-top: 13px;
+			margin-left: 20px;
+			height: 55px;
+			width: 69px;
+			position: absolute;
+		}
 	}
 
 	.logo p {
@@ -270,12 +281,22 @@ nav {
 		}
 	}
 
+	.logo {
+		svg {
+			margin-top: 17px;
+			margin-left: 30px;
+			height: 45px;
+			width: 69px;
+			position: absolute;
+		}
+	}
+
 	.logo p {
 		position: absolute;
 		color: white;
 		position: absolute;
 		top: 13px;
-		left: 40px;
+		left: 90px;
 		font-size: 8px;
 		width: 80px;
 		letter-spacing: 6px;
@@ -317,12 +338,22 @@ nav {
 		right: 15px;
 	}
 
+	.logo {
+		svg {
+			margin-top: 17px;
+			margin-left: 5px;
+			height: 45px;
+			width: 69px;
+			position: absolute;
+		}
+	}
+
 	.logo p {
 		position: absolute;
 		color: white;
 		position: absolute;
 		top: 13px;
-		left: 23px;
+		left: 65px;
 		font-size: 8px;
 		width: 80px;
 		letter-spacing: 6px;
