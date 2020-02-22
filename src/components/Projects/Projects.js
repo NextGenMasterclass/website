@@ -13,7 +13,7 @@ const Projects = () => {
 		<main className='Projects'>
 			<Fade bottom>
 				<h2>
-					<span>02. </span>Masterclass Calendar
+					<span>02. </span>Kalender Masterclasses
 				</h2>
 			</Fade>
 			<section className='projects-container'>{cards}</section>

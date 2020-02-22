@@ -118,7 +118,9 @@
 	.small {
 		font-size: 16px;
 		color: rgb(216, 216, 216);
-		margin-bottom: 0;
+		margin-bottom: 15px;
+		margin-left: 20px;
+		margin-top: -10px;
 	}
 
 	.overlap {
@@ -149,7 +151,7 @@
 				background: #000000;
 			}
 			div {
-				color: rgb(123, 255, 215);
+				color: #7bffd7;
 			}
 		}
 	}

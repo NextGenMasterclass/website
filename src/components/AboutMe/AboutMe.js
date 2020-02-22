@@ -10,58 +10,69 @@ const AboutMe = () => {
 				<section className='about-box'>
 					<section className='about-description'>
 						<h2>
-							<span>01. </span>What We Do
+							<span>01. </span>Wat we doen
 						</h2>
 						<p>
-							Our platform offers a series of masterclasses hosted by experts in
-							the field. The goal of the series is a direct transfer of
-							knowledge and skill from one generation to another. The structure
-							is peer-to-peer, where current champions and leaders contribute to
-							younger generations. Our platform aims to be complementary to the
-							established infrastructure of community trainers and regional
-							training centers.
+							Ons platform biedt een reeks masterclasses, georganiseerd door
+							experts in het veld. Het doel van de serie is een peer-to-peer
+							overdracht van één generatie naar de andere. Het platform is
+							bedoeld als aanvulling op bestaande infrastructuren.
 						</p>
-						<p className='sub-header'>Our mission is talent development:</p>
-						<p>
-							We want to Inspire talent and teach them the ropes in a fun,
-							passionate and unrestrictive way. We want to arm them in achieving
-							their goals, by sharing knowledge, developing skill and tell them
-							the full story: winning and losing.
+						<p className='sub-header'>Onze missie is talent ontwikkeling:</p>
+						<p className='quote'>
+							We geloven dat huidige kampioenen en leiders belangrijke leraren
+							zijn voor jongere generaties, om ze gepassioneerd op de fiets te
+							krijgen, en te houden. Door talent op een leuke manier de kneepjes
+							van het vak leren, op een zowel gepassioneerde als ongelimiteerde
+							manier. We willen hen bewapenen bij het bereiken hun doelen, door
+							kennis te delen, vaardigheden te ontwikkelen en te vertellen het
+							volledige verhaal: winnen en verliezen.
 						</p>
 						<br />
-						<br />
-						<p className='sub-header'>For who?</p>
+						<p className='sub-header'>Voor wie?</p>
 						<p>
-							We work with open invitation. Our targeted group is 15-19 years
-							young talents. Parents are also welcome!
+							Onze doelgroep is 15-19 jaar jonge talenten. Ouders zijn ook
+							welkom! We vragen van deelnemers dat ze regionaal of nationaal
+							competitief zijn, om een hoge kwaliteit van training te kunnen
+							garanderen.
+							<br />
+							Deelname op uitnodiging. Per masterclass houden we circa 20-30
+							deelnemers aan.
 						</p>
-						<p className='sub-header'>How does a masterclass look like?</p>
+						<p className='sub-header'>Hoe ziet een masterclass eruit?</p>
 						<p>
-							We don’t like traditions, rules or restrictions, we like to open
-							the legs ánd the mind! The training will be adventurous, fast
-							paced and to the point. We offer concentrated knowhow in two
-							forms: a{' '}
-							<span style={{ color: 'pink', fontWeight: 'bold' }}>
+							Weg met tradities, regels of beperkingen, we willen lichaam en
+							geest uitdagen! Onze trainingen zijn avontuurlijk en snel ter
+							zake. We bieden geconcentreerde knowhow in twee vormen aan: a{' '}
+							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
 								Training Series
 							</span>{' '}
-							and a themed Q&amp;A Masterclass
+							and a{' '}
+							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
+								themed Q&amp;A Masterclass
+							</span>
 						</p>
-						<p className='sub-header'>Training series</p>
+						<p
+							className='sub-header'
+							style={{ color: '#64ffda', fontWeight: 'bold' }}>
+							Training series
+						</p>
 						<p>
-							We launch in 2020 with a track series, where in an Olympic year,
-							we focus for this year’s masterclasses on Olympic Track races. See
-							the calendar for details.
+							We starten in 2020 met een track series, met focus op Olympische
+							onderdelen. Zie kalender voor details.
 						</p>
-						<p className='sub-header'>
+						<p
+							className='sub-header'
+							style={{ color: '#64ffda', fontWeight: 'bold' }}>
 							Themed Q&amp;A Masterclass; ask the expert
 						</p>
 						<p>
-							An information bomb about one particular topic. In an informal
-							setting, you can ask any question to one of the greats. We send
-							out for questions beforehand, so we have an agenda which will be
-							guaranteed firework. The session starts off with an informative
-							talk, then a Q&amp;A with the host, and we end with a freefire of
-							questions at will.
+							Een geconcentreerde dosis informatie over één bepaald onderwerp.
+							De setting is informeel, waarbij deelnemers elke vraag kunnen
+							stellen aan onze sprekers. We vragen vooraf relevante content uit,
+							dus we zorgen voor een agenda met gegarandeerd vuurwerk. De sessie
+							begint met een informatieve intro, vervolgens een Q&amp;A met de
+							gastheer en eindigen met een vrije vuur van vragen.
 						</p>
 					</section>
 				</section>

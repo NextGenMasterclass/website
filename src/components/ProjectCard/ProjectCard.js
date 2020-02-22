@@ -26,12 +26,12 @@ const ProjectCard = project => {
 					</h3>
 					<p className='overlap'>
 						<span>{people}</span>
-						{description && <p className='small'>{description}</p>}
 					</p>
+					{description && <p className='small'>{description}</p>}
 					<ul>
-						{points.map(point => {
+						{points.map((point, index) => {
 							return (
-								<li>
+								<li key={index}>
 									<span>▹</span>
 									{point}
 								</li>
@@ -40,7 +40,7 @@ const ProjectCard = project => {
 					</ul>
 					{dialog && (
 						<>
-							<h5>Dialog:</h5>
+							<h5>Dialoog:</h5>
 							<p className='overlap space'>{dialog}</p>
 						</>
 					)}
@@ -56,11 +56,11 @@ const ProjectCard = project => {
 							</div>
 						</a>
 					) : (
-						<a className='disable'>
+						<div className='disable'>
 							<div className='github-hyperlinks'>
 								<div>Registration Link Coming Soon</div>
 							</div>
-						</a>
+						</div>
 					)}
 				</section>
 			</div>

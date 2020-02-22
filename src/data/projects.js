@@ -1,10 +1,11 @@
 const projects = [
 	{
 		id: 1,
-		title: 'The perfect Time-Trial',
+		title: 'De perfecte Tijdrit',
 		description:
-			'We gaan aan de slag met jouw tijdrit. Thema’s die we uitgebreid aandacht gaan geven zijn o.a.',
-		people: 'With Jenning Huizinga & Seter Pchep(?)',
+			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan bestden zijn o.a.',
+		people:
+			'Met Jenning Huizinga, vice wereldkampioen achtervolgiong (& Seter Pchep?, coach EF Pro Cycling)',
 		deployLink:
 			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
 		date: 'Vrijdag 15, Mei 2020',
@@ -19,8 +20,8 @@ const projects = [
 	},
 	{
 		id: 2,
-		title: 'All things Madison',
-		people: 'With Nick Stöpler',
+		title: 'Stop met houtje touwtje Koppelkoersen',
+		people: 'Met Nick Stöpler, meervoudig Nederlands kampioen koppelkoers',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Velodrome, Amsterdam',
@@ -30,15 +31,15 @@ const projects = [
 	},
 	{
 		id: 3,
-		title: 'The perfect start',
+		title: 'De perfecte Start',
 		dialog:
-			'How he coped with not being selected to defend his world title team sprint',
-		people: 'Nils van‘t Hoenderdaal;',
+			'Hoe ga je om met niet geselecteerd worden om je titel te verdedigen?',
+		people: 'Met N.T.B, voormalig wereldkampioen Team Sprint',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Velodrome, Amsterdam',
 		points: [
-			'Trainingsvormen; Hoe train je voor een teamsprint, (ploegen)achtervolging etc.',
+			'Trainingsvormen; Hoe train je voor de start van een teamsprint, (ploegen)achtervolging etc.',
 			'Trainingsvormen krachttraining',
 			'Wedstrijdbeleving & voorbereiding',
 			'Techniek perfect uit de startmachine'
@@ -46,31 +47,32 @@ const projects = [
 	},
 	{
 		id: 4,
-		title: 'Training & Q&A with Marianne Vos',
+		title: 'Training & Q&A met N.T.B.',
 		description: '',
-		people: 'With Marianne Vos',
+		dialog: 'Hoe sterker terug te komen na overtraining',
+		people: 'Met N.T.B., voormalig wereld- en Olympisch kampioen',
 		deployLink: '',
 		date: 'October 2020',
-		location: 'Naarden, NL',
-		points: ["Marianne's favoriete intervals trainingsvorm"]
+		location: 'Naarden',
+		points: ['N.T.B. favoriete intervals trainingsvorm']
 	},
 	{
 		id: 5,
-		title: 'How to ride the best possible Keirin',
+		title: 'Hoe rijd ik mijn beste Keirin?',
 		description: '',
-		people: 'With Matthijs Büchli',
+		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Alkmaar, Sportpaleis',
-		points: ['Positioneren', 'Timing']
+		points: ['Positioneren', 'Timing', 'Tacktiek & Strategie']
 	},
 	{
 		id: 6,
-		title: 'Me vs You: The perfect sprint tournament',
+		title: 'Me vs You: Het perfecte Sprinttoernooi',
 		description: '',
 		dialog:
-			'How did he get over defeat at the 2008 Olympics and how to handle pressure',
-		people: 'With Theo Bos',
+			'Hoe hij verlies tijdens de 2008 Olympics overkwam en hoe je met druk omgaat',
+		people: 'Met N.T.B',
 		deployLink: '',
 		date: 'November 2020',
 		location: 'Alkmaar, Sportpaleis',
@@ -78,11 +80,11 @@ const projects = [
 	},
 	{
 		id: 7,
-		title: 'The perfect elimination race',
+		title: 'De perfecte Afvalkoers',
 		description: '',
 		dialog:
-			'How she became better with the years and how to manage people writing you off',
-		people: 'With Kirsten Wild',
+			'Hoe beter te worden met de jaren en om te gaan met mensen die je afschrijven',
+		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'November 2020',
 		location: 'Apeldoorn, Omnisport',
@@ -90,8 +92,8 @@ const projects = [
 	},
 	{
 		id: 8,
-		title: 'Q&A: Sleeping well under all conditions',
-		people: 'With Nick Stöpler',
+		title: 'Q&A: goed Slapen onder alle omstandigheden',
+		people: 'Met Nick Stöpler',
 		description: '',
 		dialog: '',
 		deployLink: '',
@@ -101,24 +103,22 @@ const projects = [
 			'Slaaproutines',
 			'Slaapproblemen',
 			'Slapen tijdens wedstrijddagen',
-			'Slaapgenwoontes'
+			'Slaapgewoontes'
 		]
 	},
 	{
 		id: 9,
-		title: 'Q&A: How do I find a team?',
+		title: 'Q&A: Hoe vind ik een Ploeg?',
 		description: '',
-		dialog:
-			'How she became better with the years and how to manage people writing you off',
-		people: 'With Bart van Haaren, manager SEG',
+		people: 'Met N.T.B, manager SEG',
 		deployLink: '',
 		date: 'December 2020',
 		location: 'Naarden',
 		points: [
-			'What team fits me?',
-			'How do I approach a team?',
-			'What does a team look for in me?',
-			'How do I develop best?'
+			'Welke ploeg past bij me?',
+			'Hoe benader ik een ploeg?',
+			'Waar zoekt een ploeg naar in mij?',
+			'He kan ik me het beste ontwikkelen?'
 		]
 	}
 ];

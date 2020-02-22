@@ -60,7 +60,7 @@ const NavigationBar = () => {
 										ignoreCancelEvents={true}
 										duration={1200}>
 										<li onClick={() => handleIsActive(false)}>
-											<span>01.</span>What We Do
+											<span>01.</span>Wat we doen
 										</li>
 									</Link>
 									<Link
@@ -71,11 +71,11 @@ const NavigationBar = () => {
 										ignoreCancelEvents={true}
 										duration={1200}>
 										<li onClick={() => handleIsActive(false)}>
-											<span>02.</span>Calendar
+											<span>02.</span>Kalender
 										</li>
 									</Link>
 									<Link
-										to='Career'
+										to='Partnerships'
 										spy={true}
 										smooth={true}
 										offset={0}

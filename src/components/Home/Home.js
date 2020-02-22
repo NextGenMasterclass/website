@@ -14,22 +14,22 @@ const Home = () => {
 					<h1>{name}.</h1>
 					<h1 className='sub-header-title'>Masterclasses on the bike.</h1>
 					<p className='description-title'>
-						We inspire talent and arm them with expert knowledge and skill by
-						direct transfer of knowhow from one generation to another.
+						We inspireren talent en bewapenen ze met kennis en kunde van
+						experts. Een directe transfer van de ene generatie op de andere.
 					</p>
 					<div>
 						<Fade bottom cascade delay={800}>
-							<a href='mailto:edwinbosq@gmail.com' className='button-link'>
-								<Link
-									to='Projects'
-									spy={true}
-									smooth={true}
-									offset={0}
-									ignoreCancelEvents={true}
-									duration={1200}>
-									<button className='contact-button'>Check Events</button>
-								</Link>
-							</a>
+							<Link
+								to='Projects'
+								spy={true}
+								smooth={true}
+								offset={0}
+								ignoreCancelEvents={true}
+								duration={1200}>
+								<button className='contact-button button-link'>
+									Check Events
+								</button>
+							</Link>
 						</Fade>
 					</div>
 				</section>
