@@ -1,11 +1,10 @@
 import React from 'react';
 import './Home.scss';
 import Fade from 'react-reveal/Fade';
+import { Link } from 'react-scroll';
 
 const Home = () => {
 	const name = 'The Next Generation';
-	const resumeUrl =
-		'https://drive.google.com/file/d/12sU1DRchtoAVYqw034NR1Hk29DpGBVtn/view';
 
 	return (
 		<>
@@ -21,7 +20,15 @@ const Home = () => {
 					<div>
 						<Fade bottom cascade delay={800}>
 							<a href='mailto:edwinbosq@gmail.com' className='button-link'>
-								<button className='contact-button'>Sign Up</button>
+								<Link
+									to='Projects'
+									spy={true}
+									smooth={true}
+									offset={0}
+									ignoreCancelEvents={true}
+									duration={1200}>
+									<button className='contact-button'>Check Events</button>
+								</Link>
 							</a>
 						</Fade>
 					</div>
