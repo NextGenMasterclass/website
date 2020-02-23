@@ -60,7 +60,7 @@ const projects = [
 		id: 5,
 		title: 'Hoe rijd ik mijn beste Keirin?',
 		description: '',
-		people: 'Met N.T.B.',
+		people: 'Met N.T.B., Olympisch medaille winnaar',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Alkmaar, Sportpaleis',
@@ -84,7 +84,7 @@ const projects = [
 		description: '',
 		dialog:
 			'Hoe beter te worden met de jaren en om te gaan met mensen die je afschrijven',
-		people: 'Met N.T.B.',
+		people: 'Met N.T.B., meervoudig wereldkampioene omnium',
 		deployLink: '',
 		date: 'November 2020',
 		location: 'Apeldoorn, Omnisport',
