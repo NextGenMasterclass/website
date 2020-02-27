@@ -20,7 +20,7 @@ const projects = [
 	},
 	{
 		id: 2,
-		title: 'Stop met houtje touwtje Koppelkoersen',
+		title: 'Weg met houtje touwtje Koppelkoersen',
 		people: 'Met Nick Stöpler, meervoudig Nederlands kampioen koppelkoers',
 		deployLink: '',
 		date: 'October 2020',
