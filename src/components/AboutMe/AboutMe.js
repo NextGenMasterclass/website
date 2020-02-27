@@ -15,24 +15,23 @@ const AboutMe = () => {
 						<p>
 							Ons platform biedt een reeks masterclasses georganiseerd door
 							experts in het veld. Het doel van de serie is een overdracht van
-							één generatie naar de andere.
+							één generatie op de andere.
 						</p>
 						<p className='sub-header'>Onze missie is talent ontwikkeling.</p>
 						<p className='quote'>
 							''We geloven dat huidige kampioenen en experts belangrijke leraren
 							kunnen zijn voor jongere generaties, om ze de kneepjes van het vak
-							te leren, gepassioneerd op de fiets te krijgen en te houden. We
-							willen helpen in het bereiken hun doelen, door kennis te delen,
+							te leren, gepassioneerd op de fiets te krijgen en te behouden. We
+							willen helpen in het bereiken van doelen, door kennis te delen,
 							vaardigheden te ontwikkelen en te vertellen het volledige verhaal:
 							winnen en verliezen.''
 						</p>
 						<br />
 						<p className='sub-header'>Voor wie?</p>
 						<p>
-							We richten ons op 15-19 jaar jonge talenten. Ouders zijn ook
-							welkom! We vragen van deelnemers dat ze regionaal of nationaal
-							competitief zijn, om een hoge kwaliteit van training te kunnen
-							garanderen.
+							We richten ons op jonge talenten. Ouders zijn ook welkom! We
+							vragen van deelnemers dat ze regionaal of nationaal competitief
+							zijn, om een hoge kwaliteit van training te kunnen garanderen.
 							<br />
 							Per masterclass houden we circa 20-30 deelnemers aan, afhankelijk
 							van de masterclass.
@@ -40,8 +39,8 @@ const AboutMe = () => {
 						<p className='sub-header'>Hoe ziet een masterclass eruit?</p>
 						<p>
 							Weg met tradities, regels en beperkingen! We willen lichaam en
-							geest uitdagen! Onze trainingen zijn avontuurlijk en snel ter
-							zake. We werken met twee vormen: een{' '}
+							geest uitdagen! Onze trainingen zijn avontuurlijk en zonder
+							onnodige rompslomp. We werken met twee vormen: een{' '}
 							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
 								Training Series
 							</span>{' '}
@@ -68,9 +67,9 @@ const AboutMe = () => {
 							Een geconcentreerde dosis informatie over één bepaald onderwerp.
 							De setting is informeel, waarbij deelnemers elke vraag kunnen
 							stellen aan onze sprekers. We vragen vooraf relevante content uit,
-							dus we zorgen voor een agenda met relevante thema's. De sessie
-							begint met een informatieve intro, vervolgens een Q&amp;A met de
-							gastheer en eindigen met een vrije vuur van vragen.
+							dus we zorgen voor een agenda met interessante thema's. De sessie
+							beginnen informatief, vervolgens een Q&amp;A met de gastheer en
+							eindigen met vrij vuur van vragen.
 						</p>
 					</section>
 				</section>

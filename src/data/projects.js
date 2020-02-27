@@ -5,7 +5,7 @@ const projects = [
 		description:
 			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan besteden zijn o.a.',
 		people:
-			'Met Jenning Huizenga, vice wereldkampioen achtervolging & PS, coach X Pro Cycling)',
+			'Met PS, tijdritcoach X Pro Cycling en Jenning Huizenga, AeroPro en NL recordhouder 4km achtervolging',
 		deployLink:
 			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
 		date: 'Dinsdag 28 april 2020',
