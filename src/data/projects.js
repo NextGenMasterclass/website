@@ -52,7 +52,7 @@ const projects = [
 		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'October 2020',
-		location: 'Naarden',
+		location: 'Papendal, Arnhem',
 		points: ['N.T.B. favoriete intervals trainingsvorm']
 	},
 	{
@@ -69,7 +69,7 @@ const projects = [
 		id: 6,
 		title: 'Me vs You: Het perfecte Sprinttoernooi',
 		description: '',
-		dialog: 'Hoe om te gaan met verliezen en hoe je met druk omgaat',
+		dialog: 'Hoe om te gaan met verlies en druk',
 		people: 'Met N.T.B',
 		deployLink: '',
 		date: 'November 2020',
