@@ -3,7 +3,7 @@ const projects = [
 		id: 1,
 		title: 'De perfecte Tijdrit',
 		description:
-			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan bestden zijn o.a.',
+			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan besteden zijn o.a.',
 		people:
 			'Met Jenning Huizenga, vice wereldkampioen achtervolging & PS, coach X Pro Cycling)',
 		deployLink:

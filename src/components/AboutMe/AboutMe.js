@@ -17,14 +17,14 @@ const AboutMe = () => {
 							experts in het veld. Het doel van de serie is een overdracht van
 							één generatie naar de andere.
 						</p>
-						<p className='sub-header'>Onze missie is talent ontwikkeling:</p>
+						<p className='sub-header'>Onze missie is talent ontwikkeling.</p>
 						<p className='quote'>
-							We geloven dat huidige kampioenen en experts belangrijke leraren
+							''We geloven dat huidige kampioenen en experts belangrijke leraren
 							kunnen zijn voor jongere generaties, om ze de kneepjes van het vak
 							te leren, gepassioneerd op de fiets te krijgen en te houden. We
 							willen helpen in het bereiken hun doelen, door kennis te delen,
 							vaardigheden te ontwikkelen en te vertellen het volledige verhaal:
-							winnen en verliezen.
+							winnen en verliezen.''
 						</p>
 						<br />
 						<p className='sub-header'>Voor wie?</p>
@@ -41,11 +41,11 @@ const AboutMe = () => {
 						<p>
 							Weg met tradities, regels en beperkingen! We willen lichaam en
 							geest uitdagen! Onze trainingen zijn avontuurlijk en snel ter
-							zake. We werken met twee vormen: a{' '}
+							zake. We werken met twee vormen: een{' '}
 							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
 								Training Series
 							</span>{' '}
-							and a{' '}
+							en een{' '}
 							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
 								themed Q&amp;A Masterclass
 							</span>
@@ -68,7 +68,7 @@ const AboutMe = () => {
 							Een geconcentreerde dosis informatie over één bepaald onderwerp.
 							De setting is informeel, waarbij deelnemers elke vraag kunnen
 							stellen aan onze sprekers. We vragen vooraf relevante content uit,
-							dus we zorgen voor een agenda met gegarandeerd vuurwerk. De sessie
+							dus we zorgen voor een agenda met relevante thema's. De sessie
 							begint met een informatieve intro, vervolgens een Q&amp;A met de
 							gastheer en eindigen met een vrije vuur van vragen.
 						</p>
