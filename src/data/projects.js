@@ -5,10 +5,10 @@ const projects = [
 		description:
 			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan bestden zijn o.a.',
 		people:
-			'Met Jenning Huizinga, vice wereldkampioen achtervolgiong (& Seter Pchep?, coach EF Pro Cycling)',
+			'Met Jenning Huizenga, vice wereldkampioen achtervolging & PS, coach X Pro Cycling)',
 		deployLink:
 			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
-		date: 'Vrijdag 15, Mei 2020',
+		date: 'Dinsdag 28 april 2020',
 		location: 'Nedereindse Berg, Nieuwegein',
 		points: [
 			'Aerodynamica; jouw optimale houding en trends',
@@ -32,9 +32,8 @@ const projects = [
 	{
 		id: 3,
 		title: 'De perfecte Start',
-		dialog:
-			'Hoe ga je om met niet geselecteerd worden om je titel te verdedigen?',
-		people: 'Met N.T.B, voormalig wereldkampioen Team Sprint',
+		dialog: 'Hoe ga je om met niet geselecteerd worden?',
+		people: 'Met N.T.B',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Velodrome, Amsterdam',
@@ -50,7 +49,7 @@ const projects = [
 		title: 'Training & Q&A met N.T.B.',
 		description: '',
 		dialog: 'Hoe sterker terug te komen na overtraining',
-		people: 'Met N.T.B., voormalig wereld- en Olympisch kampioen',
+		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Naarden',
@@ -60,7 +59,7 @@ const projects = [
 		id: 5,
 		title: 'Hoe rijd ik mijn beste Keirin?',
 		description: '',
-		people: 'Met N.T.B., Olympisch medaille winnaar',
+		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'October 2020',
 		location: 'Alkmaar, Sportpaleis',
@@ -70,8 +69,7 @@ const projects = [
 		id: 6,
 		title: 'Me vs You: Het perfecte Sprinttoernooi',
 		description: '',
-		dialog:
-			'Hoe hij verlies tijdens de 2008 Olympics overkwam en hoe je met druk omgaat',
+		dialog: 'Hoe om te gaan met verliezen en hoe je met druk omgaat',
 		people: 'Met N.T.B',
 		deployLink: '',
 		date: 'November 2020',
@@ -82,9 +80,8 @@ const projects = [
 		id: 7,
 		title: 'De perfecte Afvalkoers',
 		description: '',
-		dialog:
-			'Hoe beter te worden met de jaren en om te gaan met mensen die je afschrijven',
-		people: 'Met N.T.B., meervoudig wereldkampioene omnium',
+		dialog: 'Hoe wordt je beter met de jaren?',
+		people: 'Met N.T.B.',
 		deployLink: '',
 		date: 'November 2020',
 		location: 'Apeldoorn, Omnisport',
@@ -110,7 +107,7 @@ const projects = [
 		id: 9,
 		title: 'Q&A: Hoe vind ik een Ploeg?',
 		description: '',
-		people: 'Met N.T.B, manager SEG',
+		people: 'Met N.T.B,',
 		deployLink: '',
 		date: 'December 2020',
 		location: 'Naarden',

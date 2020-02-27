@@ -15,7 +15,7 @@ const Contact = () => {
 					aan het netwerk? Neem vooral contact op!
 				</p>
 				<p style={{ marginTop: '70px', color: 'darkgray', fontSize: '90%' }}>
-					Wees aub prudent met onze tijd,
+					Wees aub mindful met onze tijd,
 				</p>
 				<p style={{ marginTop: '50px', color: 'darkgray', fontSize: '90%' }}>
 					onze organisatie is non-profit.

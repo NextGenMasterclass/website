@@ -12,7 +12,7 @@ const Home = () => {
 				<section className='title-section'>
 					<p className='introduction'></p>
 					<h1>{name}.</h1>
-					<h1 className='sub-header-title'>Masterclasses on the bike.</h1>
+					<h1 className='sub-header-title'>Masterclasses op de fiets.</h1>
 					<p className='description-title'>
 						We inspireren talent en bewapenen ze met kennis en kunde van
 						experts. Een directe transfer van de ene generatie op de andere.

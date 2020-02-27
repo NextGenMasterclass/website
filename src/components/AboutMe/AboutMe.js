@@ -13,37 +13,35 @@ const AboutMe = () => {
 							<span>01. </span>Wat we doen
 						</h2>
 						<p>
-							Ons platform biedt een reeks masterclasses, georganiseerd door
-							experts in het veld. Het doel van de serie is een peer-to-peer
-							overdracht van één generatie naar de andere. Het platform is
-							bedoeld als aanvulling op bestaande infrastructuren.
+							Ons platform biedt een reeks masterclasses georganiseerd door
+							experts in het veld. Het doel van de serie is een overdracht van
+							één generatie naar de andere.
 						</p>
 						<p className='sub-header'>Onze missie is talent ontwikkeling:</p>
 						<p className='quote'>
-							We geloven dat huidige kampioenen en leiders belangrijke leraren
-							zijn voor jongere generaties, om ze gepassioneerd op de fiets te
-							krijgen, en te houden. Door talent op een leuke manier de kneepjes
-							van het vak leren, op een zowel gepassioneerde als ongelimiteerde
-							manier. We willen hen bewapenen bij het bereiken hun doelen, door
-							kennis te delen, vaardigheden te ontwikkelen en te vertellen het
-							volledige verhaal: winnen en verliezen.
+							We geloven dat huidige kampioenen en experts belangrijke leraren
+							kunnen zijn voor jongere generaties, om ze de kneepjes van het vak
+							te leren, gepassioneerd op de fiets te krijgen en te houden. We
+							willen helpen in het bereiken hun doelen, door kennis te delen,
+							vaardigheden te ontwikkelen en te vertellen het volledige verhaal:
+							winnen en verliezen.
 						</p>
 						<br />
 						<p className='sub-header'>Voor wie?</p>
 						<p>
-							Onze doelgroep is 15-19 jaar jonge talenten. Ouders zijn ook
+							We richten ons op 15-19 jaar jonge talenten. Ouders zijn ook
 							welkom! We vragen van deelnemers dat ze regionaal of nationaal
 							competitief zijn, om een hoge kwaliteit van training te kunnen
 							garanderen.
 							<br />
-							Deelname op uitnodiging. Per masterclass houden we circa 20-30
-							deelnemers aan.
+							Per masterclass houden we circa 20-30 deelnemers aan, afhankelijk
+							van de masterclass.
 						</p>
 						<p className='sub-header'>Hoe ziet een masterclass eruit?</p>
 						<p>
-							Weg met tradities, regels of beperkingen, we willen lichaam en
+							Weg met tradities, regels en beperkingen! We willen lichaam en
 							geest uitdagen! Onze trainingen zijn avontuurlijk en snel ter
-							zake. We bieden geconcentreerde knowhow in twee vormen aan: a{' '}
+							zake. We werken met twee vormen: a{' '}
 							<span style={{ color: '#64ffda', fontWeight: 'bold' }}>
 								Training Series
 							</span>{' '}

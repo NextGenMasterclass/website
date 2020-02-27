@@ -11,7 +11,7 @@ const Partnerships = () => {
 
 	return (
 		<main className='Partnerships'>
-			<h2>Partnerships (?)</h2>
+			<h2>In samenwerking met..</h2>
 			<Fade bottom cascade distance={'100px'}>
 				<section className='partnerships-container'>{partners}</section>
 			</Fade>
