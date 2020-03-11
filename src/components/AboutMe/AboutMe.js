@@ -23,7 +23,7 @@ const AboutMe = () => {
 							kunnen zijn voor jongere generaties, om ze de kneepjes van het vak
 							te leren, gepassioneerd op de fiets te krijgen en te behouden. We
 							willen helpen in het bereiken van doelen, door kennis te delen,
-							vaardigheden te ontwikkelen en te vertellen het volledige verhaal:
+							vaardigheden te ontwikkelen en het volledige verhaal te vertellen:
 							winnen en verliezen.'' - Nick Stöpler, initiatiefnemer
 						</p>
 						<br />
