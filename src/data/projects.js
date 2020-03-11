@@ -5,10 +5,10 @@ const projects = [
 		description:
 			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan besteden zijn o.a.',
 		people:
-			'Met PS, tijdritcoach X Pro Cycling en Jenning Huizenga, AeroPro en NL recordhouder 4km achtervolging',
-		deployLink:
-			'https://www.eventbrite.com/e/tickets-de-perfecte-tijdrit-95273326083',
-		date: 'Dinsdag 28 april 2020',
+			'Met Adriaan Helmantel, Bondscoach KNWU & ex Team Sunweb en met Jenning Huizenga, AeroPro & NL recordhouder 4km achtervolging',
+		deployLink: 'http://www.knwu.nl/',
+		date:
+			'Dinsdag 28 april 2020. Groep 1: 10.00-13.00 (evt. Groep 2: 13.30-16.30)',
 		location: 'Nedereindse Berg, Nieuwegein',
 		points: [
 			'Aerodynamica; jouw optimale houding en trends',

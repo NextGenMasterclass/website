@@ -52,7 +52,7 @@ const ProjectCard = project => {
 							rel='nofollow noopener noreferrer'
 							aria-label='External Link'>
 							<div className='github-hyperlinks'>
-								<div>Sign up for Masterclass</div>
+								<div>Inschrijving: talentontwikkeling@knwu.nl</div>
 							</div>
 						</a>
 					) : (
