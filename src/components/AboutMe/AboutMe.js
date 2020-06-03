@@ -24,7 +24,7 @@ const AboutMe = () => {
 							te leren, gepassioneerd op de fiets te krijgen en te behouden. We
 							willen helpen in het bereiken van doelen, door kennis te delen,
 							vaardigheden te ontwikkelen en het volledige verhaal te vertellen:
-							winnen en verliezen.'' - Nick Stöpler, initiatiefnemer
+							winnen en verliezen.'' - Nick Stöpler, mede-initiatiefnemer
 						</p>
 						<br />
 						<p className='sub-header'>Voor wie?</p>

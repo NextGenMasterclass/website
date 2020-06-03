@@ -5,17 +5,16 @@ const projects = [
 		description:
 			'We gaan aan de slag met jouw tijdrit. Thema’s waar we uitgebreid aandacht aan gaan besteden zijn o.a.',
 		people:
-			'Met Adriaan Helmantel, Bondscoach KNWU & ex Team Sunweb en met Jenning Huizenga, AeroPro & NL recordhouder 4km achtervolging',
+			'Met: Adriaan Helmantel, Bondscoach KNWU & ex Team Sunweb, Jenning Huizenga, AeroPro & NL recordhouder 4km achtervolging en Cesar Beilo, fysio & onderzoeker Ministerie van Defensie',
 		deployLink: 'http://www.knwu.nl/',
-		date:
-			'Dinsdag 28 april 2020. Groep 1: 10.00-13.00 (evt. Groep 2: 13.30-16.30)',
+		date: 'Cancelled: Dinsdag 28 april 2020, van 10.00-13.00',
 		location: 'Nedereindse Berg, Nieuwegein',
 		points: [
 			'Aerodynamica; jouw optimale houding en trends',
 			'Pacing; hoe deel ik mijn tijdrit in en gebruik ik m’n vermogen',
 			'Trainingsvormen',
-			'Wedstrijdvoorbereiding',
-			'wedstrijdbeleving'
+			'Wedstrijdvoorbereiding en -beleving',
+			'Mobiliteit lichaam in combinatie met tijdrithouding'
 		]
 	},
 	{
@@ -23,7 +22,7 @@ const projects = [
 		title: 'Weg met houtje touwtje Koppelkoersen',
 		people: 'Met Nick Stöpler, meervoudig Nederlands kampioen koppelkoers',
 		deployLink: '',
-		date: 'October 2020',
+		date: 'N.T.B.',
 		location: 'Velodrome, Amsterdam',
 		points: ['Aflossingen', 'Energie besparen', 'Positioneren', 'Overzicht'],
 		dialog:
@@ -33,9 +32,9 @@ const projects = [
 		id: 3,
 		title: 'De perfecte Start',
 		dialog: 'Hoe ga je om met niet geselecteerd worden?',
-		people: 'Met N.T.B',
+		people: 'Met Roy van den Berg, wereldkampioen Team Sprint',
 		deployLink: '',
-		date: 'October 2020',
+		date: 'N.T.B.',
 		location: 'Velodrome, Amsterdam',
 		points: [
 			'Trainingsvormen; Hoe train je voor de start van een teamsprint, (ploegen)achtervolging etc.',
@@ -81,9 +80,9 @@ const projects = [
 		title: 'De perfecte Afvalkoers',
 		description: '',
 		dialog: 'Hoe wordt je beter met de jaren?',
-		people: 'Met N.T.B.',
+		people: 'Met Kirsten Wild, ex-wereldkampioen omnium',
 		deployLink: '',
-		date: 'November 2020',
+		date: 'N.T.B.',
 		location: 'Apeldoorn, Omnisport',
 		points: ['Positionering', 'Trainingsvormen interval', 'Wedstrijdbeleving']
 	},
@@ -94,7 +93,7 @@ const projects = [
 		description: '',
 		dialog: '',
 		deployLink: '',
-		date: 'November 2020',
+		date: 'N.T.B.',
 		location: 'Naarden',
 		points: [
 			'Slaaproutines',
@@ -109,7 +108,7 @@ const projects = [
 		description: '',
 		people: 'Met N.T.B,',
 		deployLink: '',
-		date: 'December 2020',
+		date: 'N.T.B.',
 		location: 'Naarden',
 		points: [
 			'Welke ploeg past bij me?',
